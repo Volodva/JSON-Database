@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="JSON_Database.JSON_Database-task-build-classes-java.main" target="11" />
+      <module name="JSON_Database.JSON_Database-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="JSON_Database.JSON_Database-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="JSON_Database.JSON_Database-task-build-reports-tests.main" target="11" />
+      <module name="JSON_Database.JSON_Database-task-build-test-results.main" target="11" />
+      <module name="JSON_Database.JSON_Database-task-build-tmp.main" target="11" />
+      <module name="JSON_Database.JSON_Database-task.main" target="11" />
+      <module name="JSON_Database.Problems-Convert_to_bytes.main" target="11" />
+      <module name="JSON_Database.Problems-Convert_to_char_array.main" target="11" />
+      <module name="JSON_Database.Problems-Count_words.main" target="11" />
+      <module name="JSON_Database.Problems-Counting_words.main" target="11" />
+      <module name="JSON_Database.Problems-Days_of_the_week.main" target="11" />
+      <module name="JSON_Database.Problems-Displaying_pairs.main" target="11" />
+      <module name="JSON_Database.Problems-Remote_Controller.main" target="11" />
+      <module name="JSON_Database.Problems-Sherlock_Holmes_and_removing_of_characters.main" target="11" />
+      <module name="JSON_Database.Problems-Sherlock_Holmes_and_the_mystery_of_anagrams.main" target="11" />
+      <module name="JSON_Database.Problems-The_root_of_a_number.main" target="11" />
+      <module name="JSON_Database.Problems-Throw_a_checked_exception.main" target="11" />
+      <module name="JSON_Database.Problems-Throw_an_IOException.main" target="11" />
+      <module name="JSON_Database.Problems-Tricky_sub-maps.main" target="11" />
+      <module name="JSON_Database.Problems-Undo_command.main" target="11" />
+      <module name="JSON_Database.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
